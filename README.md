@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application. It is basically an  expense tracking or you can say expense reading and save the expense so that whenever you want to have a look at what expense you have made at a period of time. 
 
 A few resources to get you started if this is your first Flutter project:
 
